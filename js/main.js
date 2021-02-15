@@ -52,7 +52,7 @@ function voltar2(elemento) {
 }
 
 function load() {
-  alert("PAG carregada");
+  alert("LOADING");
 }
 
 function change(elemento) {
